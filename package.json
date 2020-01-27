@@ -1,0 +1,19 @@
+{
+  "name": "save-the-old-reader-post",
+  "version": "0.0.1",
+  "description": "Saves The Old Reader post locally",
+  "repository": "https://github.com/lucerion/save-the-old-reader-post",
+  "license": "BSD-3-Clause",
+  "author": "Alexander Skachko <alexander.skachko@gmail.com>",
+  "scripts": {
+    "start": "node src/index.js",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.1.0",
+    "eslint": "^6.2.2"
+  }
+}
