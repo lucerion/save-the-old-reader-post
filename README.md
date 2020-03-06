@@ -3,7 +3,7 @@
 Saves The Old Reader post locally
 
 
-## Install
+## Installation
 
     yarn install
 
@@ -19,7 +19,7 @@ Saves The Old Reader post locally
     in the `Service Title` input
 
 
-## Env variables
+## Environment variables
 
   * `PORT` - port of the application. Default: `3000`
   * `FILE` - path to the file where posts being saved. Default: `./posts`
@@ -29,3 +29,8 @@ Saves The Old Reader post locally
 ## Linter
 
     yarn lint
+
+
+## License
+
+[BSD-3-Clause](LICENSE)
