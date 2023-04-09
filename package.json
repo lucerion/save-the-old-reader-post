@@ -6,7 +6,7 @@
   "license": "BSD-3-Clause",
   "author": "Alexander Skachko <alexander.skachko@gmail.com>",
   "scripts": {
-    "start": "node src/index.js",
+    "start": "node --watch src/index.js",
     "lint": "eslint ."
   },
   "dependencies": {
